@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey 👋  
+I'm Clarissa — frontend engineer, creative technologist, and digital educator. 🎨💻
 
-<!--
-**clarissajaime/clarissajaime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I blend code, design, and AI to build interactive experiences and educational content that empower people to create.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Interests & Focus  
+- Frontend engineering (React, Next.js, creative UI/UX)  
+- AI-powered interfaces and generative design  
+- Teaching & curriculum development  
+- Creative coding & AI art  
+
+---
+
+## 🧠 Writing  
+I share thoughts, tutorials, and inspiration at the intersection of code and creativity.  
+- Personal Website: [clarissajaime.com/blog](https://clarissajaime.com/blog)  
+- Blog & Newsletter: [*Canvas & Code* – exploring frontend, AI, and creative tech](https://substack.com/@canvasandcode)
+
+---
+
+## 📚 Educational Products  
+I create curriculum and learning experiences for coders and creators:  
+- React & Next.js bootcamps  
+- AI integration workshops  
+- Design systems for beginners  
+- Career prep resources for software engineers  
+
+---
+
+## 💬 Fun Stuff  
+- Lived in 8 countries
+- Avid TV geek
+- I’m a lifelong learner, and always sketching ideas
+
+---
+
+Let's build things that feel like magic ✨  
+[GitHub](https://github.com/clarissajaime) • [Blog](https://clarissajaime.com) • [Newsletter](https://substack.com/@canvasandcode))
