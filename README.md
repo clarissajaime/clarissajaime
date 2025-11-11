@@ -15,7 +15,7 @@ I blend code, design, and AI to build interactive experiences and educational co
 
 ## 🧠 Writing  
 I share thoughts, tutorials, and inspiration at the intersection of code and creativity.  
-- Personal Website: [clarissajaime.com/blog](https://clarissajaime.com/blog)  
+- Personal Website: [clarissajaime.com](https://clarissajaime.com/)  
 - Blog & Newsletter: [*Canvas & Code* – exploring frontend, AI, and creative tech](https://substack.com/@canvasandcode)
 
 ---
