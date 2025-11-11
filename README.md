@@ -36,5 +36,4 @@ I create curriculum and learning experiences for coders and creators:
 
 ---
 
-Let's build things that feel like magic ✨  
-[GitHub](https://github.com/clarissajaime) • [Blog](https://clarissajaime.com) • [Newsletter](https://substack.com/@canvasandcode))
+Let's work together ✨  
